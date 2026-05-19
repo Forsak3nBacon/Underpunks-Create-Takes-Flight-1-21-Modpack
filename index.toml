@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/worktrees/condescending-khayyam-4fb9e6/LICENSE"
-hash = "cdbf01c8f80964390592c3ee4d2645c596631112307929da2d637a812b6d47a2"
-
-[[files]]
-file = ".claude/worktrees/crazy-dirac-fd6e1c/.claude/settings.local.json"
-hash = "e5b1476601ede800dfd479f6ff0fa0140d63d30d9a562670d8e72da957910176"
-
-[[files]]
-file = ".claude/worktrees/crazy-dirac-fd6e1c/LICENSE"
-hash = "cdbf01c8f80964390592c3ee4d2645c596631112307929da2d637a812b6d47a2"
-
-[[files]]
 file = "LICENSE"
 hash = "cdbf01c8f80964390592c3ee4d2645c596631112307929da2d637a812b6d47a2"
 
@@ -75,10 +63,6 @@ hash = "c612cb7e93484b2630b5df0846d37482f47ce3091e323a114c53325a542c15a2"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "78638ea6f958fb631931258d6f49539197edad583cd1fc9cac34a9f1f074646d"
-
-[[files]]
-file = "install-mods.sh"
-hash = "3d40553855d942c885cdefbd232320a894c46ecf4ab876c6d6da661fad9ae231"
 
 [[files]]
 file = "kubejs/server_config/disable_create_craftsadd_electrum.js"
@@ -397,11 +381,6 @@ hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "5d7c434f746d615ea78adfdc4ba6e96452c93b2a68dc939c2ff3611a061e0b21"
-metafile = true
-
-[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
@@ -584,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "bbcbc7b4f4510f9dde83cac3d7c674536195cdbdd049207552a685c1a291997a"
 metafile = true
 
 [[files]]

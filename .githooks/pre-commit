@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Auto-run `packwiz refresh` before every commit so index.toml/pack.toml
+# hashes stay in sync with the mods/*.pw.toml files. Restages any files
+# refresh modified so they ride along in the same commit.
+set -e
+
+if ! command -v packwiz >/dev/null 2>&1; then
+  echo "pre-commit: packwiz not on PATH, skipping refresh" >&2
+  echo "  install with: go install github.com/packwiz/packwiz@latest" >&2
+  exit 0
+fi
+
+packwiz refresh >/dev/null
+
+for f in index.toml pack.toml; do
+  if ! git diff --quiet -- "$f" 2>/dev/null; then
+    git add "$f"
+    echo "pre-commit: restaged $f (refresh updated hashes)"
+  fi
+done
