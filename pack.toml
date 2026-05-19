@@ -1,0 +1,13 @@
+name = "Underpunks: The Create Age"
+author = "Forsak3nBacon"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "67210775de5b33e60cffb879f5c0b018c01ac9a0af2e65c83a0a50677ec2c286"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
