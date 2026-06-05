@@ -60,6 +60,20 @@ find "$STAGING/mods" -name "*.pw.toml" -print0 \
 find "$STAGING/mods" -name "*.pw.toml.bak" -delete
 echo "   flipped $FLIPPED mods"
 
+echo ">> Templating BCC config (config/bcc-common.toml) from pack.toml"
+PACK_NAME=$(grep '^name = ' pack.toml | sed 's/name = "\(.*\)"/\1/')
+BCC_CFG="$STAGING/config/bcc-common.toml"
+if [[ -f "$BCC_CFG" ]]; then
+  sed -i.bak \
+    -e "s|modpackName = \"CHANGE_ME\"|modpackName = \"$PACK_NAME\"|" \
+    -e "s|modpackVersion = \"CHANGE_ME\"|modpackVersion = \"$VERSION\"|" \
+    "$BCC_CFG"
+  rm -f "$BCC_CFG.bak"
+  echo "   name=\"$PACK_NAME\" version=$VERSION"
+else
+  echo "   WARN: $BCC_CFG not found, skipping"
+fi
+
 echo ">> packwiz refresh (in staging)"
 ( cd "$STAGING" && packwiz refresh )
 
