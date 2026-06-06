@@ -17,3 +17,6 @@ packwiz-installer-bootstrap.jar
 .gitattributes
 .DS_Store
 .claude/
+
+# KubeJS Scripts
+sbp_relink_backpacks.js

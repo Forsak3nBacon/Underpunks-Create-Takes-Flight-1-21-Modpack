@@ -85,14 +85,6 @@ file = "kubejs/server_config/disable_some_building_gadgets.js"
 hash = "a2ab5012ea2ba54d2ea67bc747bccab8307e981253b9f4baf0a0d21d23d458f0"
 
 [[files]]
-file = "kubejs/server_scripts/sbp_relink_backpacks.js"
-hash = "ec5497d0b86925e761eebc224d2948591b996020785d0830cbe4d2479c9f13ba"
-
-[[files]]
-file = "modlist-1.21.1.md"
-hash = "cf99c93ee06ef2c6416f9a2d6a40abb64b24f3a9b17963d320bd09e86658a644"
-
-[[files]]
 file = "mods/aero_cam_sync.pw.toml"
 hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
 metafile = true
