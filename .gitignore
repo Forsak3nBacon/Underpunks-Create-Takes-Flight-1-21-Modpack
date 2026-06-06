@@ -1,2 +1,7 @@
 .DS_Store
 .claude
+
+# Build artifacts (CI builds these from source)
+*.mrpack
+build/
+packwiz-installer-bootstrap.jar

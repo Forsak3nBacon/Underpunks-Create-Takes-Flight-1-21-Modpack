@@ -1,0 +1,13 @@
+name = "Create Aeronautics x Curios API Compat"
+filename = "createaeronauticscurios-neoforge-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "daa6ae2ab7922dd1da750cf3441a149ef409a763"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8030913
+project-id = 1532334

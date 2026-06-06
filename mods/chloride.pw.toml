@@ -1,13 +1,13 @@
 name = "Chloride (Embeddium++/Sodium++)"
-filename = "chloride-NEOFORGE-mc1.21.1-v1.7.7.jar"
+filename = "chloride-NEOFORGE-mc1.21.1-v1.7.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yD9qW65f/versions/2KyOjXqM/chloride-NEOFORGE-mc1.21.1-v1.7.7.jar"
+url = "https://cdn.modrinth.com/data/yD9qW65f/versions/wHVcHnEW/chloride-NEOFORGE-mc1.21.1-v1.7.8.jar"
 hash-format = "sha512"
-hash = "1463038d42a29e9a32aebe0bde4005ee26f52df4ea4aae510219ea057a98d8f8b190621b6a5c3aee6e475b374de00271252bb54abee8d6ccf04202bb975b0b1d"
+hash = "921832f0aefc5165afdfd3414fc7d8fcae484a672056b89607572af2ab6c9fa871b718106104e01cfe6ea7f54b7df3e3edf427725b7edf574525b8ab75a6a093"
 
 [update]
 [update.modrinth]
 mod-id = "yD9qW65f"
-version = "2KyOjXqM"
+version = "wHVcHnEW"

@@ -1,0 +1,22 @@
+# Files/dirs packwiz should NOT index into the pack.
+# gitignore-style syntax.
+
+# CI + dev tooling
+.github/
+.githooks/
+scripts/
+DEVNOTES.md
+
+# Build output
+build/
+*.mrpack
+packwiz-installer-bootstrap.jar
+
+# Git / OS noise
+.gitignore
+.gitattributes
+.DS_Store
+.claude/
+
+# KubeJS Scripts
+sbp_relink_backpacks.js
