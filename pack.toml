@@ -1,4 +1,4 @@
-name = "Underpunks: The Create Age"
+name = "Underpunks: Create Takes Flight"
 author = "Forsak3nBacon"
 version = "2.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "16acee3510df69c5731f6a98b02ccd4a685921ae2d659ad51f12d0aa6e0759f7"
+hash = "766442dce5b21a2ff6690b5072d23aebbf8265d76810c932a612f14062349053"
 
 [versions]
 minecraft = "1.21.1"
