@@ -1016,6 +1016,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "8b68bc0a52bd726f19e8b855d87b7855c60dc243024fc1100ef9894d7abfa6be"
 metafile = true
