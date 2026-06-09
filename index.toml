@@ -205,6 +205,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/armor-3d.pw.toml"
+hash = "aa296e86ce16a805f40156820623dc779a1b633c3fffc17276c79bd6af3b3419"
+metafile = true
+
+[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
 metafile = true
@@ -230,6 +235,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d0fa701686c9533ae60cf096c3b4192bef2ab93e33c1f3ee885c2eb50715afc6"
+metafile = true
+
+[[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "7c3b1f4819e8a3b88cadd8ed968d74491c71f504738dd0f2cd60f3ff40d80f72"
 metafile = true
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
+metafile = true
+
+[[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
@@ -262,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
@@ -445,6 +465,11 @@ hash = "a76b3b07c25a8ea8c2797328d0d531f64dfbce5a662f343f833bd9857285286f"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "125fa69ac8e6e85c9d27a0ec13e575c09312c6e5fd2f97613fbcc85a19775a13"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone-deepslate-generators.pw.toml"
 hash = "5c6a6de1c89aa5a7f356867567a2cc2422fbe4fbaa61abd8d868bd9165fb9ea9"
 metafile = true
@@ -485,6 +510,11 @@ hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "cab6f316cb4ef454bbfa18b32263c3fb7c246a0405a505611c1e36b5eabd48f0"
+metafile = true
+
+[[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
 hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
@@ -495,8 +525,18 @@ hash = "c3cbea800ad6c0b2442f89f83a40b7bb950c1c3645192348e5ba389dacdc3e55"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "52579ab76fea3d22a2507820122f5880c8dd83bef8fed911b782758fa4c0ecc2"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "ad5c2fd3c28bd92617c104d5cfc32fc1fd9b16585af1f5631cc4c59954fa8eef"
 metafile = true
 
 [[files]]
@@ -512,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/create-sable-dynamic-lights.pw.toml"
 hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
 
 [[files]]
@@ -557,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+metafile = true
+
+[[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "71053be9c44af1962340f830d5a0b463ea55e0251e5ad941668d1ed38d13254e"
 metafile = true
 
 [[files]]
@@ -660,8 +710,23 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
@@ -682,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
 
 [[files]]
@@ -732,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/horseman.pw.toml"
 hash = "c14defcebe823231795ee9df77bd7a473b0fa2016147f7e465d13a0a38e136c5"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+hash = "83552a504c2a4febadbc9873a18327a884f2bb1568d6aa786551776afe393e88"
 metafile = true
 
 [[files]]
@@ -1070,6 +1145,16 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "e49e5bbd1acba6a50c445e3d087552bc134e3559eae8a29da2332b4d11588228"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
@@ -1077,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
 
 [[files]]
@@ -1110,6 +1200,11 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "fef4a1d9a69f7dd72b323319c81712bebdaeb2295f3e64b51863c78e1a5e35f7"
 metafile = true
@@ -1125,8 +1220,13 @@ hash = "b75e19ba95ad946b923ff7b33d4618726684fd51d8f698df7598d08fe614874e"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+file = "mods/sound-physics-perfected.pw.toml"
+hash = "e30c84244d41ff88da392a1577b458a04751bd82b12763413aaf3cde0c26500a"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "1a8c3d6ea5da99e223a66c521362cc4c5d39c6f3987981fc3b47c50b39631015"
 metafile = true
 
 [[files]]
@@ -1212,6 +1312,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]

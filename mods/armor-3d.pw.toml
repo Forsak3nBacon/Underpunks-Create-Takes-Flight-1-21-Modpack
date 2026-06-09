@@ -1,0 +1,13 @@
+name = "3D Armor"
+filename = "3d-armor-0.9.4.1-mod.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XhxKIfGG/versions/znUQ19V3/3d-armor-0.9.4.1-mod.jar"
+hash-format = "sha512"
+hash = "cca535e34dfd88f6b5b0e513325ea7c95434095c4bebbf0fbc50d9f5f4047ded8b789a9654a2dad9a3c62c45c32add4d1a07d193796d50c3d6ef6a05bb0d70f5"
+
+[update]
+[update.modrinth]
+mod-id = "XhxKIfGG"
+version = "znUQ19V3"
