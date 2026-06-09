@@ -41,6 +41,10 @@ file = "config/create_jetpack-common.toml"
 hash = "dfd6589cadaceb5d63cf6cc16251ea0cf29420c8a830bd91a2bb4af67d67f900"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "a3c0c9f491ffd894263e41af0f6146a24dccafcdaae7e4ee6b88a544f4b672d5"
+
+[[files]]
 file = "config/createadditionallogistics-server.toml"
 hash = "5864fbefbe78c04836ba106ab0397c57218005ef97fa0ee46a968e08c73e965c"
 
@@ -159,6 +163,11 @@ hash = "f058150af99a5b1ba72fc72c6f794a35549e5f5b37fbd5648778741c2a74d81a"
 [[files]]
 file = "kubejs/server_config/disable_some_building_gadgets.js"
 hash = "a2ab5012ea2ba54d2ea67bc747bccab8307e981253b9f4baf0a0d21d23d458f0"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
+metafile = true
 
 [[files]]
 file = "mods/aero_cam_sync.pw.toml"
@@ -526,6 +535,11 @@ hash = "fee63d0b246df05bfd950d3be9ed6b4ce02752ce21f8b13489a892ecdff8056a"
 metafile = true
 
 [[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
+metafile = true
+
+[[files]]
 file = "mods/create-vibrant-vaults.pw.toml"
 hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
@@ -568,21 +582,6 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-fences.pw.toml"
-hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-walls.pw.toml"
-hash = "bbc15c019fd260bbb9058b14a8e03232a55df77608d9aca466d051007d62abd2"
-metafile = true
-
-[[files]]
-file = "mods/diagonal-windows.pw.toml"
-hash = "218dcd780f0251a15f78b097206ea22a519d57b974b39e2fdd43dce91ac07133"
 metafile = true
 
 [[files]]
@@ -961,6 +960,11 @@ hash = "b68a0b80d7dd64e2c5ac489aa67cf3c343630c9e2deec5d09522d6f7363b2b35"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
 file = "mods/personality!.pw.toml"
 hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
 metafile = true
@@ -1016,8 +1020,18 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-curios-integration.pw.toml"
+hash = "ce6f405d86fa560f11825b1c92ac8ffe27e5d8b5e1e576ca9b464bb35bbe6c7a"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
 metafile = true
 
 [[files]]
